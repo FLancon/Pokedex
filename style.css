@@ -11,7 +11,7 @@ body {
 		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 
 	/* The image used */
-	background-image: url("Assets/background.png");
+	background-image: url("assets/background.png");
 
 	/* Set a specific height */
 	min-height: 500px;
