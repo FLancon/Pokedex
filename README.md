@@ -6,5 +6,9 @@ Have a look on the 151 first generation's Pokemon:
 Search through the entire pokedex:
 ![Screenshot Page D'acceuil](https://github.com/FLancon/Pokedex/blob/2a80b7f5f249c802ce3204c93e0389fd5e86a27f/assets/Screenshot-2.png?raw=true)
 
+# Features
+- Reactive search result
+- infinite scroll
+
 # 🔍 See it with your own eyes:
 https://jocular-torte-377970.netlify.app/
